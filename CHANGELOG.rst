@@ -2,6 +2,12 @@
 Changelog for package sync_tooling_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.7 (2026-03-19)
+------------------
+* build: fix dependency export that was causing downstream packages to fail
+* chore: bump deps, reword package description
+* Contributors: Max SCHMELLER
+
 0.2.6 (2026-01-13)
 ------------------
 * chore: more readme tuning
