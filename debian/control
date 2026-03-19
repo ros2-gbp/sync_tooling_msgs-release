@@ -1,0 +1,12 @@
+Source: ros-rolling-sync-tooling-msgs
+Section: misc
+Priority: optional
+Maintainer: Max Schmeller <max.schmeller@tier4.jp>
+Build-Depends: debhelper (>= 9.0.0), libprotobuf-dev, libprotoc-dev, protobuf-compiler, ros-rolling-ament-cmake, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-sync-tooling-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libprotobuf32t64, ros-rolling-ros-workspace
+Description: Protobuf definitions for SYNC.TOOLING
