@@ -1,3 +1,26 @@
+## sync_tooling_msgs (jazzy) - 0.2.11-1
+
+The packages in the `sync_tooling_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -r jazzy --track jazzy sync_tooling_msgs` on `Tue, 07 Jul 2026 07:58:21 -0000`
+
+The `sync_tooling_msgs` package was released.
+
+Version of package(s) in repository `sync_tooling_msgs`:
+
+- upstream repository: https://github.com/tier4/sync_tooling_msgs.git
+- release repository: https://github.com/ros2-gbp/sync_tooling_msgs-release.git
+- rosdistro version: `0.2.10-1`
+- old version: `0.2.10-1`
+- new version: `0.2.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## sync_tooling_msgs (rolling) - 0.2.11-1
 
 The packages in the `sync_tooling_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling --track rolling sync_tooling_msgs` on `Tue, 07 Jul 2026 07:56:08 -0000`
